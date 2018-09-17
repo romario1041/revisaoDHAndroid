@@ -31,7 +31,8 @@ import retrofit2.Response;
  */
 public class Fragment_now_playing extends Fragment implements ClickListener{
     public static int PAGE = 1;
-    public static String API_KEY = "0138389c9cb33b3d807451c0822a9bbb";
+    //public static String API_KEY = "0138389c9cb33b3d807451c0822a9bbb";
+    public static String API_KEY = "51b19cc78e37eba81f64faf6b072637f";
     public static String LANGUAGE = "pt-BR";
     public static String CATEGORY = "now_playing";
     public static String REGION = "BR";
